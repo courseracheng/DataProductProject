@@ -12,6 +12,10 @@ shinyUI(navbarPage("Random Forest",
     
     hr(),
     
+    p(strong("Please click the bar above to get details of topic below.")),
+    
+    hr(),
+    
     h4("Data"),
     
     p("Data set (longley) is discussed with pairwise plot between variables.
